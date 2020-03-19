@@ -4,7 +4,7 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:id="@+id/nameTv"
+        android:id="@+id/left_text"
         android:textColor="@android:color/white"
         android:background="@color/colorPrimary"
         android:layout_width="match_parent"
@@ -12,7 +12,7 @@
     <TextView
         android:textColor="@android:color/white"
         android:background="@color/colorAccent"
-        android:id="@+id/infoTv"
+        android:id="@+id/right_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
